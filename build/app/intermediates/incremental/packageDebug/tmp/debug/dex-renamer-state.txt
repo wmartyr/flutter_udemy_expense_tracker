@@ -1,0 +1,4 @@
+#Sat Feb 18 08:49:56 ACDT 2023
+base.0=/home/woody/Documents/flutter/projects/flutter_udemy_expense_tracker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
